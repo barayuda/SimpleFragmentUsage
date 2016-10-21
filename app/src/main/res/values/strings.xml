@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">SimpleFragmentUsage</string>
+
+    <string name="hello_blank_fragment_1" translatable="false">Hola ini first fragment</string>
+    <string name="btn_first_fragment" translatable="false">Ke SecondFragment</string>
+    <string name="hello_blank_fragment_2" translatable="false">Hola ini second fragment</string>
+    <string name="btn_second_fragment" translatable="false">Ke ThridFragment</string>
+    <string name="hello_blank_fragment_3">Hello blank fragment</string>
+</resources>
